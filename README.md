@@ -2,7 +2,12 @@
 
 ![](https://telegram.org/favicon.ico)
 
-Telegram (http://telegram.org) client library implemented in C#. Only basic functionality are implemented now. **Consider donation to speed up development process.**
+Telegram (http://telegram.org) client library implemented in C#. Only basic functionality are implemented now.
+
+
+It's forked from a ![](https://github.com/sochix/TLSharp)
+Why?
+There are some diferencies ssddsasd 
 
 It's a perfect fit for any developer who need to sends data directly to Telegram users.
 
